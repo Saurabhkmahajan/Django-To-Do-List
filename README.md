@@ -11,4 +11,7 @@ For New Register
 Added Some Task
 ![screencapture-127-0-0-1-8000-2022-06-02-22_54_37](https://user-images.githubusercontent.com/98261745/171702905-52c2c8e3-814b-4487-9dda-4d3c217ad1c2.png)
 
+Search Bar
+![screencapture-127-0-0-1-8000-2022-06-02-22_56_04](https://user-images.githubusercontent.com/98261745/171703184-603cd574-06bb-48fa-9567-3b986cd01e16.png)
+
 
